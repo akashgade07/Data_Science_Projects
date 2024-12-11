@@ -19,7 +19,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 * [Traffic Sign Recognition](https://github.com/akashsuryakantgade/Data_Science_Projects/tree/main/Traffic%20Sign%20Recognition)
 
 ## Feedback and Contact
-I welcome any feedback, suggestions or questions you may have about the projects or the repository. Feel free to reach out to me via email at akashgade.datascience@gmail.com
+Your feedback, suggestions, and questions are highly valued! Feel free to reach out to me at akashgade.datascience@gmail.com for any inquiries related to my projects or the repository.
 
 Enjoy exploring my data science projects!
 
