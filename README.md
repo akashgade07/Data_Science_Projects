@@ -23,7 +23,3 @@ Your feedback, suggestions, and questions are highly valued! Feel free to reach 
 
 Enjoy exploring my data science projects!
 
-## Portfolio
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akashsuryakantgade/code)
-
